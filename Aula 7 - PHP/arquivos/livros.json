@@ -1,0 +1,23 @@
+[
+    {
+        "id": "6a9a012ec7b8d",
+        "titulo": "Harry Potter",
+        "genero": "D",
+        "qtd_paginas": "350",
+        "autor": "J. K. Roling"
+    },
+    {
+        "id": "6a9a156c5c236",
+        "titulo": "dasda",
+        "genero": "F",
+        "qtd_paginas": "1658",
+        "autor": "dadad"
+    },
+    {
+        "id": "6a9a193f16d55",
+        "titulo": "sdada",
+        "genero": "D",
+        "qtd_paginas": "245",
+        "autor": "dada"
+    }
+]
